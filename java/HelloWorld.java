@@ -5,7 +5,7 @@ class HelloWorld {
     public static void main(String[] args) {
         new HelloWorld().PrintFromC();
         new HelloWorld().PrintFromCpp();
-	new HelloWorld().PrintFromObjC();
+	//new HelloWorld().PrintFromObjC();
 	System.out.println("Hello world in java");
     }
     static {
